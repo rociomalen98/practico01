@@ -14,5 +14,5 @@ class Rectangulo:
         return 2 * (self.ancho + self.alto)
 
 rectangulo1 = Rectangulo(4, 7)
-print(f"Área del rectángulo: {rectangulo1.area()}") 
-print(f"Perímetro del rectángulo: {rectangulo1.perimetro()}") 
+print(f"Área del rectángulo: {rectangulo1.area()}")
+print(f"Perímetro del rectángulo: {rectangulo1.perimetro()}")
